@@ -1,0 +1,2 @@
+# ALL-EXE-VERIFY
+FF.EXE
